@@ -4,7 +4,7 @@ public class MovieTicketPrice {
     public static void main(String[] args) {
         // make new scanner
         Scanner input = new Scanner(System.in);
-        // Declare variables and read user input
+        // Declare age, studentID, and weekday variables and read user input
         int age;
         String studentID;
         String weekday;
